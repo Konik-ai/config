@@ -1,0 +1,14 @@
+[
+   {
+      "name":"sunnypilot",
+      "url":"https://staging.sunnypilot.ai"
+   },
+   {
+      "name":"FrogPilot",
+      "url":"https://frogpilot.download"
+   },
+   {
+      "name":"openpilot stock (not recommended)",
+      "url":"https://openpilot.comma.ai"
+   }
+]
