@@ -1,5 +1,9 @@
 [
   {
+    "name": "hoofpilot",
+    "url": "https://hp.konik.ai/release"
+  },
+  {
     "name": "sunnypilot",
     "url": "https://staging.sunnypilot.ai"
   },
